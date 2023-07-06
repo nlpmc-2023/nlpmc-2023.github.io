@@ -3,7 +3,7 @@ layout: default
 title: NLPMC 2023
 ---
 
-## [NLPMC 2023](http://nlpmc-2023.github.io): 3rd Workshop on Natural Language Processing for Medical Conversations
+## [NLPMC 2023](http://nlpmc-2023.github.io): 3rd Workshop on NLP for Medical Conversations
 ### at [AACL 2023](http://www.ijcnlp-aacl2023.org/).
 
 <br>
