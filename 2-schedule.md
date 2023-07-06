@@ -6,11 +6,13 @@ nav: true
 
 # Program
 
+TBD
+
 <!--
 A preview of the workshop schedule is available <a href="images/Schedule.pdf" target="_blank">here</a>.
 -->
 
-| PDT (UTC-7)           | Title       |   
+<!--| PDT (UTC-7)           | Title       |   
 |:-----------------|:-----------------|
 | 08:15-08:30  | Opening Remarks  
 | 08:30-09:30  | **Invited Talk: [Joyce Y. Chai](http://www.cse.msu.edu/~jchai/)** -- _Situated Human-Machine Communication_ |
@@ -43,7 +45,7 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 
 <br>
 
-# Accepted Papers
+<!--# Accepted Papers
 (In random ordering)
 
 * [Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases](https://www.aclweb.org/anthology/2020.nli-1.1.pdf)
@@ -73,3 +75,5 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 * [Unnatural Language Processing: Bridging the Gap Between Synthetic and Natural Language Data](https://arxiv.org/pdf/2004.13645.pdf ) (_Cross-submission_)
 
    Author(s): Alana Marzoev (MIT), Samuel Madden (MIT), M. Frans Kaashoek (MIT), Michael Cafarella (University of Michigan) and Jacob Andreas (MIT)
+
+-->

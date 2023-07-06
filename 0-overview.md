@@ -4,7 +4,7 @@ title: Overview
 nav: true
 ---
 
-## [NLPMC 2023](http://nli-acl2020.github.io): 3rd Workshop on Natural Language Processing for Medical Conversations
+## [NLPMC 2023](http://nlpmc-2023.github.io): 3rd Workshop on Natural Language Processing for Medical Conversations
 ### at [AACL 2023](http://www.ijcnlp-aacl2023.org/).
 
 <br>
@@ -56,12 +56,13 @@ Relevant topics include, but are not limited to:
 # Organizers
 {% include figure.html file="organizers.png" alt="organizers" width="100%" %}
 
-The workshop is organized by [Sopan Khosla](https://sopankhosla.github.io) (Microsoft Research), [Chaitanya Shivade](), [Vinayshekhar Bannihatti](https://vinayshekhar000.github.io/), Rashmi Gangadharaiah
+The workshop is organized by [Sopan Khosla](https://sopankhosla.github.io) (AWS AI Labs), [Chaitanya Shivade](https://cshivade.github.io/) (AWS AI Labs), [Vinayshekhar Bannihatti](https://vinayshekhar000.github.io/) (AWS AI Labs), [Rashmi Gangadharaiah](https://www.amazon.science/author/rashmi-gangadharaiah) (AWS AI Labs), [Thomas Schaaf](https://www.linkedin.com/in/thomasschaaf/) (3M), [Sandeep Konam](https://skonam.github.io/) (Hitloop, ex Abridge AI), [Kevin Lybarger](https://www.kevinlybarger.me/) (George Mason University), [Aleksandar Savkov](https://www.linkedin.com/in/savkov/) (Babylon Health)
+
 
 For any questions, please email [nlpmc2023@gmail.com](mailto:nlpmc2023@gmail.com)
 
 <br>
 
 # Location 
-NLI 2023 will be held in hybrid mode (in-person and virtual), co-located with [AACL 2023](http://www.ijcnlp-aacl2023.org/).
+NLPMC 2023 will be held in hybrid mode (in-person and virtual), co-located with [AACL 2023](http://www.ijcnlp-aacl2023.org/).
 

@@ -5,18 +5,15 @@ nav: true
 ---
 
 # Invited Speakers
-+ [Joyce Y. Chai](#joyce_chai) (University of Michigan)
-+ [H. V. Jagadish](#h_v_jagadish) (University of Michigan)
-+ [Monica S. Lam](#monica_lam) (Stanford University)
-+ [Percy Liang](#percy_liang) (Stanford University & Microsoft Semantic Machines)
-+ [Luke Zettlemoyer](#luke_zettlemoyer) (University of Washington & FAIR)
-+ [Imed Zitouni](#imed_zitouni) (Google)
+TBD
 
 <br>
 
 # Speaker Details
 
-<a name="joyce_chai"></a>
+TBD
+
+<!-- <a name="joyce_chai"></a>
 <img align="left" src="images/joycechai.jpeg" width="25%" style="margin: 0px 15px 5px 0px;"> [Joyce Y. Chai](http://www.cse.msu.edu/~jchai/)  (University of Michigan)
 
 **Talk**: _Situated Human-Machine Communication_
@@ -80,4 +77,4 @@ His awards include the Presidential Early Career Award for Scientists and Engine
 
 Imed received his M.Sc. and Ph.D. from the University-of-Nancy1 and INRIA in France. He also obtained a MEng degree in computer science from ENSI in Tunisia. Imed is the Editor-in-Chief of ACM Transactions on Asian and Low-Resources Language Processing. He is a senior member of IEEE, served as a board member of the IEEE Speech and Language Processing Technical Committee, and is the associate editor of IEEE Trans. on Audio, Speech and Language Processing. He is also the Information Officer of the ACL SIG on Semitic-Languages and served as chair as well as reviewing-committee-member of several conferences and journals. Imed is the author/co-author of two books, half-dozen book-chapters as well as more than 100 patents and scientific papers.
 
-<br>
+<br> -->
