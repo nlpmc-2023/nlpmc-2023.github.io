@@ -2,7 +2,8 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-
+Gemfile.lock
+_site
 # Icon must end with two \r
 Icon
 
