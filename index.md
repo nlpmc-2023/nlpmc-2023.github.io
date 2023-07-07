@@ -3,7 +3,7 @@ layout: default
 title: NLPMC 2023
 ---
 
-## [NLPMC 2023](http://nlpmc-2023.github.io): 3rd Workshop on NLP for Medical Conversations
+## [NLPMC 2023](https://nlpmc-2023.github.io): 3rd Workshop on NLP for Medical Conversations
 ### at [IJCNLP-AACL 2023](http://www.ijcnlp-aacl2023.org/).
 
 <br>
@@ -31,7 +31,7 @@ All deadlines are 11:59 PM Pacific time.
 # Invited Speakers
 <!-- {% include figure.html file="speakers.png" alt="invited speakers" width="110%" %} -->
 
-Details about the speakers and talks can be found [here](http://nlpmc-aacl2023.github.io/3-speaker.html).
+Details about the speakers and talks can be found [here](https://nlpmc-aacl2023.github.io/3-speaker.html).
 
 <br>
 
