@@ -12,11 +12,11 @@ nav: true
 + [Vinayshekhar Bannihatti](https://vinayshekhar000.github.io/) (AWS AI Labs)
 + [Rashmi Gangadharaiah](https://www.amazon.science/author/rashmi-gangadharaiah) (AWS AI Labs)
 + [Thomas Schaaf](https://www.linkedin.com/in/thomasschaaf/) (3M)
-+ [Sandeep Konam](https://skonam.github.io/) (Hitloop, ex Abridge AI)
++ [Sandeep Konam](https://skonam.github.io/) (Hitloop)
 + [Kevin Lybarger](https://www.kevinlybarger.me/) (George Mason University)
-+ [Aleksandar Savkov](https://www.linkedin.com/in/savkov/) (Babylon Health)
++ [Aleksandar Savkov](https://www.linkedin.com/in/savkov/) (JABS MedTech)
 
 <br>
 
-# Program Committee
-TBD
+<!-- # Program Committee
+TBD -->

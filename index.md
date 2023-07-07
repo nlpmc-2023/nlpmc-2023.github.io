@@ -4,7 +4,7 @@ title: NLPMC 2023
 ---
 
 ## [NLPMC 2023](http://nlpmc-2023.github.io): 3rd Workshop on NLP for Medical Conversations
-### at [AACL 2023](http://www.ijcnlp-aacl2023.org/).
+### at [IJCNLP-AACL 2023](http://www.ijcnlp-aacl2023.org/).
 
 <br>
 
@@ -21,15 +21,15 @@ While applying NLP to open domain is getting increasingly popular, medical conve
 
 All deadlines are 11:59 PM Pacific time.
 
-+ Workshop Paper Due Date: **August 25, 2023**
++ Workshop Paper Due Date: **August 18, 2023**
 + Notification of acceptance: **October 2, 2023**
 + Camera-ready papers due: **October 15, 2023**
-+ Workshop date: **TBD**
++ Workshop date: **November 1, 2023**
 
 <br>
 
 # Invited Speakers
-{% include figure.html file="speakers.png" alt="invited speakers" width="110%" %}
+<!-- {% include figure.html file="speakers.png" alt="invited speakers" width="110%" %} -->
 
 Details about the speakers and talks can be found [here](http://nlpmc-aacl2023.github.io/3-speaker.html).
 
@@ -53,9 +53,9 @@ Relevant topics include, but are not limited to:
 <br>
 
 # Organizers
-{% include figure.html file="organizers.png" alt="organizers" width="100%" %}
+{% include figure.html file="nlpmc2023-organizers.png" alt="organizers" width="100%" %}
 
-The workshop is organized by [Sopan Khosla](https://sopankhosla.github.io) (AWS AI Labs), [Chaitanya Shivade](https://cshivade.github.io/) (AWS AI Labs), [Vinayshekhar Bannihatti](https://vinayshekhar000.github.io/) (AWS AI Labs), [Rashmi Gangadharaiah](https://www.amazon.science/author/rashmi-gangadharaiah) (AWS AI Labs), [Thomas Schaaf][https://www.linkedin.com/in/thomasschaaf/] (3M), [Sandeep Konam][https://skonam.github.io/] (Hitloop, ex Abridge AI), [Kevin Lybarger][https://www.kevinlybarger.me/] (George Mason University), [Aleksandar Savkov][https://www.linkedin.com/in/savkov/] (Babylon Health)
+The workshop is organized by [Sopan Khosla](https://sopankhosla.github.io) (AWS AI Labs), [Chaitanya Shivade](https://cshivade.github.io/) (AWS AI Labs), [Vinayshekhar Bannihatti](https://vinayshekhar000.github.io/) (AWS AI Labs), [Rashmi Gangadharaiah](https://www.amazon.science/author/rashmi-gangadharaiah) (AWS AI Labs), [Thomas Schaaf](https://www.linkedin.com/in/thomasschaaf/) (3M), [Sandeep Konam](https://skonam.github.io/) (Hitloop), [Kevin Lybarger](https://www.kevinlybarger.me/) (George Mason University), [Aleksandar Savkov](https://www.linkedin.com/in/savkov/) (JABS MedTech)
 
 
 For any questions, please email [nlpmc2023@gmail.com](mailto:nlpmc2023@gmail.com)
@@ -63,5 +63,5 @@ For any questions, please email [nlpmc2023@gmail.com](mailto:nlpmc2023@gmail.com
 <br>
 
 # Location 
-NLPMC 2023 will be held in hybrid mode (in-person and virtual), co-located with [AACL 2023](http://www.ijcnlp-aacl2023.org/).
+NLPMC 2023 will be held in hybrid mode (in-person and virtual), co-located with [IJCNLP-AACL 2023](http://www.ijcnlp-aacl2023.org/).
 

@@ -9,9 +9,9 @@ TBD
 
 <br>
 
-# Speaker Details
+<!-- # Speaker Details
 
-TBD
+TBD -->
 
 <!-- <a name="joyce_chai"></a>
 <img align="left" src="images/joycechai.jpeg" width="25%" style="margin: 0px 15px 5px 0px;"> [Joyce Y. Chai](http://www.cse.msu.edu/~jchai/)  (University of Michigan)
