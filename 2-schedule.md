@@ -6,7 +6,7 @@ nav: true
 
 # Program
 
-TBD
+Stay Tuned!
 
 <!--
 A preview of the workshop schedule is available <a href="images/Schedule.pdf" target="_blank">here</a>.

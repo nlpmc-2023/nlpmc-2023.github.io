@@ -5,7 +5,7 @@ nav: true
 ---
 
 # Invited Speakers
-TBD
+Stay Tuned!
 
 <br>
 

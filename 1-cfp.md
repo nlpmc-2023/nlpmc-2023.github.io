@@ -6,7 +6,7 @@ nav: true
 
 # Call for Papers
 
-**Submission website**: TBD
+**Submission website**: Coming Soon!
 <!-- [https://www.softconf.com/acl2023/nlpmc/](https://www.softconf.com/acl2023/nlpmc/) -->
 
 
