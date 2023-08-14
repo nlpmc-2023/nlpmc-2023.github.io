@@ -21,10 +21,16 @@ While applying NLP to open domain is getting increasingly popular, medical conve
 
 All deadlines are 11:59 PM Pacific time.
 
-+ Workshop Paper Due Date: **August 18, 2023**
-+ Notification of acceptance: **October 2, 2023**
-+ Camera-ready papers due: **October 15, 2023**
++ Workshop Paper Due Date: **August 25, 2023**
++ Notification of acceptance: **September 25, 2023**
++ Camera-ready papers due: **October 5, 2023**
 + Workshop date: **November 1, 2023**
+
+<br>
+
+# Submission
+
+The workshop will accept submissions via SoftConf ([Submission Link](https://softconf.com/ijcnlp2023/WorkshopNLPMC2023/)).
 
 <br>
 
