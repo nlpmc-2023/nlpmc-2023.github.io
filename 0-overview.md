@@ -65,7 +65,7 @@ Relevant topics include, but are not limited to:
 The workshop is organized by [Sopan Khosla](https://sopankhosla.github.io) (AWS AI Labs), [Chaitanya Shivade](https://cshivade.github.io/) (AWS AI Labs), [Vinayshekhar Bannihatti](https://vinayshekhar000.github.io/) (AWS AI Labs), [Rashmi Gangadharaiah](https://www.amazon.science/author/rashmi-gangadharaiah) (AWS AI Labs), [Thomas Schaaf](https://www.linkedin.com/in/thomasschaaf/) (3M), [Sandeep Konam](https://skonam.github.io/) (Hitloop), [Kevin Lybarger](https://www.kevinlybarger.me/) (George Mason University), [Aleksandar Savkov](https://www.linkedin.com/in/savkov/) (JABS MedTech)
 
 
-For any questions, please email [nlpmc2023@gmail.com](mailto:nlpmc2023@gmail.com)
+For any questions, please email [nlpmc2023@gmail.com](mailto:nlpmc2023@gmail.com) or join our [Google Group](https://groups.google.com/g/nlpmc2023).
 
 <br>
 
