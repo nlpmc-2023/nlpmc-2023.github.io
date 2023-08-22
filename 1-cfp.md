@@ -13,7 +13,7 @@ nav: true
 
 All deadlines are 11:59 PM Pacific time.
 
-+ Workshop Paper Due Date: **August 25, 2023**
++ Workshop Paper Due Date: ~~**August 25, 2023**~~ **September 15, 2023**
 + Notification of acceptance: **September 25, 2023**
 + Camera-ready papers due: **October 5, 2023**
 + Workshop date: **November 1, 2023**
