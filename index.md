@@ -21,9 +21,9 @@ While applying NLP to open domain is getting increasingly popular, medical conve
 
 All deadlines are 11:59 PM Pacific time.
 
-+ Workshop Paper Due Date: ~~**September 15, 2023**~~ **September 22, 2023**
-+ Notification of acceptance: ~~**September 25, 2023**~~ **September 29, 2023**
-+ Camera-ready papers due: **October 6, 2023**
++ Workshop Paper Due Date: **September 22, 2023**
++ Notification of acceptance: **October 3, 2023**
++ Camera-ready papers due: **October 8, 2023**
 + Workshop date: **November 1, 2023**
 
 <br>
