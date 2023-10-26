@@ -4,35 +4,32 @@ title: Program
 nav: true
 ---
 
-# Program
-
-Stay Tuned!
+# Schedule
 
 <!--
 A preview of the workshop schedule is available <a href="images/Schedule.pdf" target="_blank">here</a>.
 -->
 
-<!--| PDT (UTC-7)           | Title       |   
-|:-----------------|:-----------------|
-| 08:15-08:30  | Opening Remarks  
-| 08:30-09:30  | **Invited Talk: [Joyce Y. Chai](http://www.cse.msu.edu/~jchai/)** -- _Situated Human-Machine Communication_ |
-| 09:30-10:30  | **Invited Talk: [Imed Zitouni](https://www.linkedin.com/in/imed-zitouni-78819a2/)** -- _Toward Better Natural Language Interfaces: Leveraging the Power of Web Documents for QA_ | 
-| 10:30-10:45 | Break | |
-| 10:45-11:00<br> | **Contributed Talk**: _Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases_  | 
-| 11:00-11:15<br> | **Contributed Talk**: _Unnatural Language Processing: Bridging the Gap Between Synthetic and Natural Language Data_ |
-| 11:15-11:30<br> | **Contributed Talk**: _Towards Reversal-Based Textual Data Augmentation for NLI Problems with Opposable Classes_ |
-| 11:30-12:30  | **Invited Talk: [Monica Lam](https://suif.stanford.edu/~lam/)** -- _Let's Build an Open Programmable Virtual Assistant with Privacy_ | 
-| 12:30-13:30  | Break | |
-| 13:30-14:30   | **Invited Talk: [Percy Liang](https://cs.stanford.edu/~pliang/)** -- _Reflections on Semantic Parsing and Learning from Users_ | 
-| 14:30-14:45<br>   | **Contributed Talk**: _Examination and Extension of Strategies for Improving Personalized Language Modeling via Interpolation_ |
-| 14:45-15:00<br>   | **Contributed Talk**: _A Multi-Modal Agent that Learns Concepts and Conditionals from Natural Language and Demonstrations_ |
-| 15:00-15:15<br>   | **Contributed Talk**: _Efficient Deployment of Conversational Natural Language Interfaces over Databases_ | 
-| 15:15-15:30<br>   | **Contributed Talk**: _Neural Multi-task Text Normalization and Sanitization with Pointer-Generator_ | 
-| 15:30-15:45  | Break | |
-| 15:45-16:45   | **Invited Talk: [H V Jagadish](https://web.eecs.umich.edu/~jag/)** -- _Natural Language in a Database Management System_ |
-| 16:45-17:45   | **Invited Talk: [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)** -- _Denoising Sequence-to-Sequence Pre-training_  |
-| 17:45-17:50  | Closing Remarks |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
+| WITA (UTC+8)          | Title                      |   
+|:-----------------|:----------------------------------|
+| 09:00-09:10  | Opening Remarks |
+|||
+| 09:10-09:40  | **Invited Talk: [Carolyn Rosé](https://www.cs.cmu.edu/~cprose/)** -- _Chasing Our Tail? The Quest for Effective Representations for Domain Transfer_ |
+|||
+| 09:40-10:00  | **Paper (Oral):** _Clinical note section classification on doctor-patient conversations in low-resourced settings_ | 
+||<sup>Zhuohao Chen, Jangwon Kim, Yang Liu and Shrikanth Narayanan</sup>|
+|||
+| 10:00-10:30 | **Invited Talk: [Nancy F. Chen](http://alum.mit.edu/www/nancychen)** -- _Personalized Large Language Models for Inclusive AI: From Multicultural Reasoning to Customized Coaching_ |
+|||
+| 10:30–11:00 | Break |
+|||
+| 11:00-11:20 | **Paper (Oral):** _“Dr LLM, what do I have?”: The Impact of User Beliefs and Prompt Formulation on Health Diagnoses_  | 
+||<sup>Wojciech Kusa, Edoardo Mosca and Aldo Lipani</sup>|
+|||
+| 11:20-11:50 | **Invited Talk: [Timothy Baldwin](https://mbzuai.ac.ae/study/faculty/timothy-baldwin/)**: _TBA_ |
+|||
+| 11:50-12:00 | Closing Remarks |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 
 
 <!--
 <object data="images/Schedule.pdf" type="application/pdf" width="700px" height="700px">
