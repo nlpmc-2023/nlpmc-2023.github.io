@@ -5,9 +5,6 @@ nav: true
 ---
 
 # Invited Speakers
-Stay Tuned!
-
-<br>
 
 <!-- # Speaker Details
 
@@ -31,7 +28,7 @@ TBD -->
 <br>
 
 <a name="tim_baldwin"></a>
-<img align="left" src="images/tim_baldwin.jpg" width="25%" style="margin: 0px 15px 5px 0px;"> [Timothy Baldwin](https://mbzuai.ac.ae/study/faculty/timothy-baldwin/) (MBZUAI, UAE)
+<img align="left" src="images/tim_baldwin.jpeg" width="25%" style="margin: 0px 15px 5px 0px;"> [Timothy Baldwin](https://mbzuai.ac.ae/study/faculty/timothy-baldwin/) (MBZUAI, UAE)
 
 **Talk**: _TBA_
 
