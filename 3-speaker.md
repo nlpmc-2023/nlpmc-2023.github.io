@@ -23,7 +23,7 @@ TBD -->
 <a name="nancy_chen"></a>
 <img align="left" src="images/nancy.jpg" width="25%" style="margin: 0px 15px 5px 0px;"> [Nancy F. Chen](http://alum.mit.edu/www/nancychen) (A*STAR, Singapore)
 
-**Talk**: _Personalized Large Language Models for Inclusive AI: From Multicultural Reasoning to Customized Coaching_
+**Talk**: _SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning_
 
 **Bio**: Nancy F. Chen is an A*STAR fellow, senior principal scientist, principal investigator, and group leader at I2R (Institute for Infocomm Research) and Principal Investigator at CFAR (Centre for Frontier AI Research). Her group works on generative AI in speech, language, and conversational technology. Her research has been applied to education, defense, healthcare, and media/journalism. Dr. Chen has published 100+ papers and supervised 100+ students/staff. She has won awards from IEEE, Microsoft, NIH, P&G, UNESCO, L’Oréal, SIGDIAL, APSIPA, MICCAI. She is an IEEE SPS Distinguished Lecturer (2023-2024), Program Chair of ICLR 2023, Board Member of ISCA (2021-2025), and Singapore 100 Women in Tech (2021). Technology from her team has led to commercial spin-offs and government deployment. Prior to A*STAR, she worked at MIT Lincoln Lab while doing a PhD at MIT and Harvard.
 
@@ -33,6 +33,6 @@ TBD -->
 <a name="tim_baldwin"></a>
 <img align="left" src="images/tim_baldwin.jpeg" width="25%" style="margin: 0px 15px 5px 0px;"> [Timothy Baldwin](https://mbzuai.ac.ae/study/faculty/timothy-baldwin/) (MBZUAI, UAE)
 
-**Talk**: _TBA_
+**Talk**: _Analysing Patient Journeys across Clinical Visits to Analyse Antimicrobial Stewardship in Australian Veterinary Clinics_
 
 **Bio**: Timothy Baldwin is the Acting Provost, Associate Provost for Academic Affairs, and Professor of Natural Language Processing at MBZUAI. Prior to joining MBZUAI, Baldwin spent 17 years at The University of Melbourne, including roles as Melbourne Laureate Professor, Director of the ARC Training Centre in Cognitive Computing for Medical Technologies (in partnership with IBM), Associate Dean Research Training in the Melbourne School of Engineering, and Deputy Head of the Department of Computing and Information Systems. He has previously held visiting positions at Cambridge University, University of Washington, University of Tokyo, Saarland University, NTT Communication Science Laboratories, and National Institute of Informatics. Prior to joining the University of Melbourne in 2004, he was a senior research engineer at the Center for the Study of Language and Information, Stanford University (2001-2004). Baldwin is president of the Association for Computational Linguistics (ACL 2022).

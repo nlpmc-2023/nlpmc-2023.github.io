@@ -19,14 +19,14 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 | 09:40-10:00  | **Paper (Oral):** _Clinical note section classification on doctor-patient conversations in low-resourced settings_ | 
 ||<sup>Zhuohao Chen, Jangwon Kim, Yang Liu and Shrikanth Narayanan</sup>|
 |||
-| 10:00-10:30 | **Invited Talk: [Nancy F. Chen](http://alum.mit.edu/www/nancychen)** -- _Personalized Large Language Models for Inclusive AI: From Multicultural Reasoning to Customized Coaching_ |
+| 10:00-10:30 | **Invited Talk: [Nancy F. Chen](http://alum.mit.edu/www/nancychen)** -- _SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning_ |
 |||
 | 10:30–11:00 | Break |
 |||
 | 11:00-11:20 | **Paper (Oral):** _“Dr LLM, what do I have?”: The Impact of User Beliefs and Prompt Formulation on Health Diagnoses_  | 
 ||<sup>Wojciech Kusa, Edoardo Mosca and Aldo Lipani</sup>|
 |||
-| 11:20-11:50 | **Invited Talk: [Timothy Baldwin](https://mbzuai.ac.ae/study/faculty/timothy-baldwin/)**: _TBA_ |
+| 11:20-11:50 | **Invited Talk: [Timothy Baldwin](https://mbzuai.ac.ae/study/faculty/timothy-baldwin/)**: _Analysing Patient Journeys across Clinical Visits to Analyse Antimicrobial Stewardship in Australian Veterinary Clinics_ |
 |||
 | 11:50-12:00 | Closing Remarks |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 
